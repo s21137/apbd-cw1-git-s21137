@@ -13,3 +13,7 @@ int Odejmij(int liczba1, int liczba2)
 {
     return liczba1 - liczba2;
 }
+int Pomnoz(int liczba1, int liczba2)
+{
+    return liczba1 * liczba2;
+}
