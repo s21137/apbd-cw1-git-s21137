@@ -9,3 +9,7 @@ int Dodaj(int liczba1, int liczba2)
 {
     return liczba1 + liczba2;
 }
+int Odejmij(int liczba1, int liczba2)
+{
+    return liczba1 - liczba2;
+}
