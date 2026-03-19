@@ -19,7 +19,7 @@ int Pomnoz(int liczba1, int liczba2)
 }
 double Podziel(int liczba1, int liczba2)
 {
-    return liczba1 / (double)liczba2;
+    return liczba1 / (double)liczba2;   
 }
 double CalculateAverage(int[] values)
 {
@@ -29,4 +29,8 @@ double CalculateAverage(int[] values)
 int CalculateMax(int[] values)
 {
     return values.Max();
+}
+int CalculateMin(int[] values)
+{
+    
 }
